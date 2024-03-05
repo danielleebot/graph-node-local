@@ -1,0 +1,11 @@
+data/
+build/
+node_modules/
+src/types/
+.DS_STORE
+yarn-error.log
+
+build/
+src/constants/index.ts
+src/constants/tokens.ts
+subgraph.yaml
